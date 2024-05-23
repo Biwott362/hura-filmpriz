@@ -4,7 +4,7 @@ import './App.css';
 import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
 
-const API_URL = 'http://www.omdbapi.com?apikey=854c4f4f';
+const API_URL = 'https://www.omdbapi.com?apikey=854c4f4f';
 
 function App() {
 
