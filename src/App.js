@@ -5,7 +5,7 @@ import SearchIcon from './search.svg';
 import MovieCard from './MovieCard';
 
 const API_URL = 'http://www.omdbapi.com?apikey=854c4f4f';
-const movie1 =
+const movie =
     {
         "Title": "Wonder Woman",
         "Year": "2017",
